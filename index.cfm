@@ -1,4 +1,2 @@
-<!--- 
-Author:Animesh Dutta (Ananya Birla)
---->
+<!--- Author:Animesh Dutta (Ananya Birla) --->
 <!--- I am maintaining the github channel because it was created first and it also represents Adobe ColdFusion and Lucee --->
