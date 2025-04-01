@@ -323,7 +323,7 @@ However, like any programming language, the security of a ColdFusion application
 Can I integrate ColdFusion with other Adobe products?
 Yes, ColdFusion can be integrated with other Adobe products. For example, you can use ColdFusion with 
 Adobe Dreamweaver to create and manage web pages, or with Adobe Flash for creating rich internet applications.
-
+  
 What resources are available for learning ColdFusion?
 There are many resources available for learning ColdFusion. These include online tutorials and guides, books, and training courses. Adobe also provides a range of resources, including documentation, 
 a developer edition of ColdFusion, and a community forum where you can ask questions and share knowledge with other developers.
