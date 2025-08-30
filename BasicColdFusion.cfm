@@ -1,4 +1,4 @@
-ColdFusion is a commercial server-side scripting language primarily found on NT platforms, 
+ColdFusion is a commercial server-side scripting language primarily found on NT platforms,  
 and it’s known for its ease of use and learning compared to other languages like PHP and ASP. 
 However, unlike PHP and ASP, ColdFusion is not free which may limit its growth.
 ColdFusion can be used to access databases for websites, enhancing the ability to add and remove content. 
